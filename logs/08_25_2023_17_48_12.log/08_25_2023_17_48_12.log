@@ -1,0 +1,5 @@
+[ 2023-08-25 17:48:12,383 ] 224 werkzeug - WARNING -  * Debugger is active!
+[ 2023-08-25 17:48:12,383 ] 224 werkzeug - INFO -  * Debugger PIN: 360-870-892
+[ 2023-08-25 17:48:14,508 ] 224 werkzeug - INFO - 127.0.0.1 - - [25/Aug/2023 17:48:14] "POST /predictdata HTTP/1.1" 200 -
+[ 2023-08-25 17:48:28,485 ] 224 werkzeug - INFO - 127.0.0.1 - - [25/Aug/2023 17:48:28] "POST /predictdata HTTP/1.1" 200 -
+[ 2023-08-25 17:49:07,057 ] 224 werkzeug - INFO - 127.0.0.1 - - [25/Aug/2023 17:49:07] "POST /predictdata HTTP/1.1" 200 -

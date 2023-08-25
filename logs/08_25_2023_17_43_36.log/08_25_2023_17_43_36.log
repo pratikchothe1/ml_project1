@@ -1,0 +1,9 @@
+[ 2023-08-25 17:43:36,807 ] 224 werkzeug - WARNING -  * Debugger is active!
+[ 2023-08-25 17:43:36,823 ] 224 werkzeug - INFO -  * Debugger PIN: 360-870-892
+[ 2023-08-25 17:43:37,040 ] 224 werkzeug - INFO - 127.0.0.1 - - [25/Aug/2023 17:43:37] "GET /predictdata HTTP/1.1" 200 -
+[ 2023-08-25 17:43:59,145 ] 224 werkzeug - INFO - 127.0.0.1 - - [25/Aug/2023 17:43:59] "[35m[1mPOST /predictdata HTTP/1.1[0m" 500 -
+[ 2023-08-25 17:43:59,175 ] 224 werkzeug - INFO - 127.0.0.1 - - [25/Aug/2023 17:43:59] "[36mGET /predictdata?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+[ 2023-08-25 17:43:59,181 ] 224 werkzeug - INFO - 127.0.0.1 - - [25/Aug/2023 17:43:59] "[36mGET /predictdata?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+[ 2023-08-25 17:43:59,230 ] 224 werkzeug - INFO - 127.0.0.1 - - [25/Aug/2023 17:43:59] "[36mGET /predictdata?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[ 2023-08-25 17:43:59,789 ] 224 werkzeug - INFO - 127.0.0.1 - - [25/Aug/2023 17:43:59] "[36mGET /predictdata?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[ 2023-08-25 17:44:06,995 ] 224 werkzeug - INFO -  * Detected change in 'c:\\users\\admin\\documents\\ds_python\\# vc_imp\\personal data\\projects\\5. krish_end_to_end_series1\\app.py', reloading
